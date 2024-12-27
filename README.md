@@ -10,18 +10,6 @@ Bu proje, modern web geliştirme tekniklerini kullanarak kullanıcı dostu, eri�
 
 ---
 
-## 📂 Dosya Yapısı
-
-├── index.html    # Ana sayfa 
-├── css/          # Stil dosyaları 
-│ └── style.css   # Ana stil dosyası 
-├── js/           # JavaScript dosyaları 
-│ └── script.js   # Ana JavaScript dosyası 
-├── assets/       # Görseller ve medya dosyaları 
-└── README.md     # Proje açıklaması
-
----
-
 ## 🚀 Özellikler
 
 - **Responsive Tasarım**: Tüm cihazlarda sorunsuz çalışır.  
